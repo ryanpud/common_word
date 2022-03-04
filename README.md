@@ -1,1 +1,1 @@
-# common_word
+# this file can read a specific file and distinguish what the most used word is and how many times it is listed
